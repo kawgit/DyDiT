@@ -9,7 +9,9 @@
 
 
 
-The official implementation of "2025ICLR Dynamic Diffusion Transformer" and "2025ArXiv DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation".
+The official implementation of two papers:
+  + "2025ICLR Dynamic Diffusion Transformer"
+  + "2025ArXiv DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation".
 
 
 
