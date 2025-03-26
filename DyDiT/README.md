@@ -26,8 +26,8 @@ Currently, we provide a pre-trained checkpoint of DyDiT $\lambda=0.7$.
 | model                     |FLOPs (G) | FID    | download    
 |-------------------------------|-|-----------|-----------
 | DiT | 118.69 | 2.27 | - 
-|DyDiT $\lambda=0.7$| 84.33 |  2.12 | [🤗](https://huggingface.co/heisejiasuo/DyDiT/resolve/main/dydit_0.7.pth?download=true)
-|DyDiT $\lambda=0.5$| 57.88 |  2.07 | [🤗](https://huggingface.co/heisejiasuo/DyDiT/resolve/main/dydit_0.7.pth?download=true)
+|DyDiT $\lambda=0.7$| 84.33 |  2.12 | [🤗](https://huggingface.co/heisejiasuo/DyDiT/resolve/main/new_release_2025_03_26/new_dydit0.7.pt?download=true)
+|DyDiT $\lambda=0.5$| 57.88 |  2.07 | [🤗](https://huggingface.co/heisejiasuo/DyDiT/resolve/main/new_release_2025_03_26/new_dydit0.5.pt?download=true)
 
 
 Run sample_0.7.sh to sample images and evaluate the performance.
