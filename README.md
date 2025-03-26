@@ -32,8 +32,8 @@ If you found our work useful, please consider citing us.
 @article{zhao2024dynamic,
   title={Dynamic diffusion transformer},
   author={Zhao, Wangbo and Han, Yizeng and Tang, Jiasheng and Wang, Kai and Song, Yibing and Huang, Gao and Wang, Fan and You, Yang},
-  journal={arXiv preprint arXiv:2410.03456},
-  year={2024}
+  journal={ICLR},
+  year={2025}
 }
 
 @article{zhao2025dynamic,
