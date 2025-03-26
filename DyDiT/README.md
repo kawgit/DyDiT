@@ -38,6 +38,9 @@ bash  sample_0.7.sh
 The sample_ddp.py script which samples 50,000 images in parallel. It generates a folder of samples as well as a .npz file which can be directly used with [ADM's TensorFlow evaluation suite](https://github.com/openai/guided-diffusion/tree/main/evaluations) to compute FID, Inception Score and other metrics.  Please follow its instructions to download the reference batch VIRTUAL_imagenet256_labeled.npz.
 
 
+
+## ⚙️ Train
+
 Run DyDiT/train0.7.sh to train DyDiT
 ```
 bash  DyDiT/train0.7.sh
