@@ -11,7 +11,7 @@
 
 The official implementation of two papers:
   + "2025ICLR Dynamic Diffusion Transformer"
-  + "2025ArXiv DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation".
+  + "2025ArXiv DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation"
 
 
 
@@ -23,8 +23,8 @@ The official implementation of two papers:
 
 
 
-
-
+## 🔧 Usage
+We provide detailed instructions to run our code. Please `cd DyDiT` or `cd DyFLUX` for more information.
 
 ## 🤔 Cite DyDiT
 If you found our work useful, please consider citing us.
