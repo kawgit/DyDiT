@@ -18,8 +18,8 @@ https://github.com/user-attachments/assets/44ef5f81-cfe0-4e59-b228-14cc0729f5c6
 
 
 ## 🚀 News
-- `2025.03.26` We release the code of training and text-to-image generation model, DyFLUX.
-- `2025.01.23` "Dynamic Diffusion Transformer" is accepted by ICLR 2025!!! We will update the code and paper soon.
+- `2025.03.26:` We release the code of training and text-to-image generation model, DyFLUX.
+- `2025.01.23:` "Dynamic Diffusion Transformer" is accepted by ICLR 2025!!! We will update the code and paper soon.
 - `2024.12.19:` We release the code for inference. 
 - `2024.10.04:` Our paper is released.
 
