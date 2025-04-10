@@ -10,8 +10,8 @@
 
 
 The official implementation of two papers:
-  + "2025ICLR Dynamic Diffusion Transformer"
-  + "2025ArXiv DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation"
+  + "[2025ICLR Dynamic Diffusion Transformer](https://arxiv.org/abs/2410.03456)"
+  + Journal version "[2025ArXiv DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation](https://arxiv.org/abs/2504.06803)"
 
 https://github.com/user-attachments/assets/44ef5f81-cfe0-4e59-b228-14cc0729f5c6
 
