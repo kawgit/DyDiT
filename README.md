@@ -38,12 +38,16 @@ If you found our work useful, please consider citing us.
   year={2025}
 }
 
-@article{zhao2025dynamic,
-  title={DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation},
-  author={Zhao, Wangbo and Han, Yizeng and Tang, Jiasheng and Wang, Kai and Luo, Hao and Song, Yibing and Huang, Gao and Wang, Fan and You, Yang},
-  year={2025}
-}
 
+@misc{zhao2025dyditdynamicdiffusiontransformers,
+      title={DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation}, 
+      author={Wangbo Zhao and Yizeng Han and Jiasheng Tang and Kai Wang and Hao Luo and Yibing Song and Gao Huang and Fan Wang and Yang You},
+      year={2025},
+      eprint={2504.06803},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.06803}, 
+}
 ```
 
 ## ☎️ Contact
