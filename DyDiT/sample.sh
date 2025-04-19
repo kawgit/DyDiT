@@ -1,0 +1,1 @@
+python sample.py --ckpt pretrained_models/new_dydit0.7.pth
