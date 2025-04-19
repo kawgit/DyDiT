@@ -1,6 +1,6 @@
 pretrain_model/
 models/
-ImageNets/
+ImageNet/
 
 log/
 
