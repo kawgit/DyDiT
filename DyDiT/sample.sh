@@ -1,1 +1,1 @@
-python sample.py --ckpt pretrained_models/new_dydit0.7.pth
+python sample.py --ckpt models/new_dydit0.7.pt

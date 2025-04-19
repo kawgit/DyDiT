@@ -133,6 +133,10 @@ def main(args):
     args.model_depth = model.depth
     ckpt_path = args.ckpt
     checkpoint_model = torch.load(ckpt_path, map_location=lambda storage, loc: storage)
+
+    if "ema" in checkpoint_model:  # supports checkpoints from train.py
+        checkpoint_model = checkpoint_model["ema"]
+
     if args.resume:
         resumed_model = checkpoint_model['model']
     else:

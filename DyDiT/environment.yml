@@ -13,3 +13,5 @@ dependencies:
     - accelerate
     - einops
     - easydict
+    - termcolor
+    - wandb
