@@ -24,7 +24,7 @@ python -m torch.distributed.launch \
        --token_ratio 0.7 \
        --clip_max_norm 50.0 \
        --warmup_step 5000 \
-       --data-path ImageNet/tiny-imagenet-200/train \
+       --data-path ImageNet \
        --ckpt-every 20
 
 
